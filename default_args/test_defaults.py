@@ -1,4 +1,4 @@
-from tests.default_args.doge import BadDoge, GoodDoge
+from default_args.doge import BadDoge, GoodDoge
 
 
 def test_good_doge_keeps_track_of_his_own_food():

@@ -1,4 +1,4 @@
-from tests.default_args.doge import BadDoge as Doge
+from default_args.doge import BadDoge as Doge
 
 
 def test_doge_remembers_food_it_was_fed():

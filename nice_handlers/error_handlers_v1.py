@@ -1,4 +1,4 @@
-from tests.nice_handlers.errors import NotFound, BadArgs
+from nice_handlers.errors import NotFound, BadArgs
 
 
 def error_handler(exc):

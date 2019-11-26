@@ -1,4 +1,4 @@
-from tests.assignment.functions_before import (
+from assignment.functions_before import (
     increment, make_incrementor, a_getter
 )
 

@@ -1,7 +1,6 @@
-import logging
 from collections import Mapping
 
-from tests.goose_typing.set_theme_v1 import bunch_of_nonsense
+from goose_typing.set_theme_v1 import bunch_of_nonsense
 
 
 def set_theme(settings):

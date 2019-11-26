@@ -2,9 +2,9 @@ from unittest.mock import MagicMock
 
 import pytest
 
-from tests.nice_handlers.error_handlers_v1 import error_handler
-from tests.nice_handlers.errors import NotFound, BadArgs, VeryBadArgs
-from tests.nice_handlers.view import some_view
+from nice_handlers.error_handlers_v1 import error_handler
+from nice_handlers.errors import NotFound, BadArgs, VeryBadArgs
+from nice_handlers.view import some_view
 
 
 @pytest.mark.parametrize(

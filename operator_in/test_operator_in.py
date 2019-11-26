@@ -1,6 +1,6 @@
 import pytest
 
-from tests.operator_in.utils import secret_decorator
+from operator_in.utils import secret_decorator
 
 
 def test_obvious_fail_case():

@@ -1,4 +1,4 @@
-from tests.goose_typing.set_theme_v1 import set_theme
+from goose_typing.set_theme_v1 import set_theme
 
 
 # It starts easy...

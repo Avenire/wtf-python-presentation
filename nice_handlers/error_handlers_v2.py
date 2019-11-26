@@ -1,6 +1,6 @@
 from functools import singledispatch
 
-from tests.nice_handlers.errors import NotFound, BadArgs, VeryBadArgs
+from nice_handlers.errors import NotFound, BadArgs, VeryBadArgs
 
 
 @singledispatch

@@ -1,4 +1,4 @@
-from tests.goose_typing.set_theme_v3 import set_theme
+from goose_typing.set_theme_v3 import set_theme
 
 
 # ...where is your God now set_theme_v3?
